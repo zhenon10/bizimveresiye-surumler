@@ -4,12 +4,21 @@ Esnaf ve mahalle işletmeleri için **veresiye, cari hesap, satış, stok ve kas
 
 ## İndir ve kur
 
-1. **[Son sürümü indirin](https://github.com/zhenon10/bizimveresiye-surumler/releases/latest)** → `BizimVeresiye-Kurulum-<sürüm>-x64.exe`
-2. Dosyayı çalıştırın. Windows **"Windows bilgisayarınızı korudu"** uyarısı verirse **Ek bilgi → Yine de çalıştır** (kurulum dosyası dijital imzasızdır).
-3. İlk açılışta dükkânınızın adını ve yönetici kullanıcınızı girin.
+1. **[Son sürümü indirin](https://github.com/zhenon10/bizimveresiye-surumler/releases/latest).** Açılan sayfanın altındaki **Assets** bölümünden `BizimVeresiye-Kurulum-<sürüm>-x64.exe` dosyasına tıklayın.
+2. İndirilen dosyayı çift tıklayarak çalıştırın.
+3. **Mavi bir "Windows bilgisayarınızı korudu" penceresi çıkarsa:** Bu uyarı, kurulum dosyası dijital olarak imzalanmadığı için çıkar. Dosyayı bu sayfadan indirdiyseniz güvenle devam edebilirsiniz:
+   1. Penceredeki **Ek bilgi** yazısına tıklayın.
+   2. Altta beliren **Yine de çalıştır** düğmesine basın.
+   <!-- Ekran görüntüleri hazır olunca açın:
+   ![Uyarı penceresi: "Ek bilgi" yazısına tıklayın](docs/kurulum-1-ek-bilgi.png)
+   ![Ardından "Yine de çalıştır" düğmesine basın](docs/kurulum-2-yine-de-calistir.png)
+   -->
+4. Kurulum sihirbazında **İleri** ile ilerleyin. Windows izin isterse **Evet** deyin.
+5. İlk açılışta dükkânınızın adını ve yönetici kullanıcınızı girin.
 
 - **Gereksinimler:** Windows 10 / 11, 64 bit. Ek bir program gerekmez.
-- **Güncelleme:** Program açılışta yeni sürüm olup olmadığına bakar ve sol alt köşede bildirir. Yeni kurulum dosyasını çalıştırmanız yeterlidir; verileriniz korunur.
+- **Güncelleme:** Program açılışta yeni sürüm olup olmadığına bakar ve sol alt köşede bildirir. Yeni kurulum dosyasını indirip çalıştırmanız yeterlidir; verileriniz korunur. Mavi uyarı her yeni sürümde tekrar çıkabilir; 3. adımdaki gibi devam edin.
+- **Antivirüs programınız dosyayı engellerse** silmeden önce satıcınıza danışın.
 
 ## Deneme ve lisans
 
